@@ -4,10 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maltsevmaksym&label=Profile%20views&color=0e75b6&style=flat" alt="maltsevmaksym" /> </p>
 <img align="right" alt="Coding" src ="https://i.gifer.com/origin/d3/d385ad6c129f74f7da9dcc2d2f283005_w200.gif">
-- 🌱 I’m currently learning **Machine learinng**
 
 - 🤝 I’m looking for help with **improvement**
-
+  
+- 🌱 I’m currently learning **Machine learinng**
+  
 - 📝 I regularly write articles on [https://instagram.com/maksym_maksymovych](https://instagram.com/maksym_maksymovych)
 
 - 💬 Ask me about **Python**
