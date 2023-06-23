@@ -1,8 +1,8 @@
 ![MaterHead](https://miro.medium.com/v2/resize:fit:1400/1*IRGB-4OAoO8KSqH_huDPFw.gif) 
 <h1 align="center">Hi 👋, I'm Maksym Maltsev</h1>
 <h3 align="center">Beginner Python developer from Ukraine</h3>
-<img align="right" alt="Coding" src ="https://i.gifer.com/origin/d3/d385ad6c129f74f7da9dcc2d2f283005_w200.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maltsevmaksym&label=Profile%20views&color=0e75b6&style=flat" alt="maltsevmaksym" /> </p>
+<img align="right" alt="Coding"  height="300" width="300" src ="https://www.thoughtwin.com/assets/img/Python_img.gif">
+
 
 
 - 🤝 I’m looking for help with **improvement**
