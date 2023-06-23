@@ -1,11 +1,23 @@
+![MaterHead](https://miro.medium.com/v2/resize:fit:1400/1*IRGB-4OAoO8KSqH_huDPFw.gif) 
 <h1 align="center">Hi 👋, I'm Maksym Maltsev</h1>
 <h3 align="center">Beginner Python developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maltsevmaksym&label=Profile%20views&color=0e75b6&style=flat" alt="maltsevmaksym" /> </p>
-
+<img align="right" alt="Coding" src ="https://i.gifer.com/origin/d3/d385ad6c129f74f7da9dcc2d2f283005_w200.gif">
 - 🌱 I’m currently learning **Machine learinng**
 
 - 🤝 I’m looking for help with **improvement**
+
+- 📝 I regularly write articles on [https://instagram.com/maksym_maksymovych](https://instagram.com/maksym_maksymovych)
+
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **maltsevmaks30@gmail.com**
+
+- ⚡ Fun fact **I`m active sportsman**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
