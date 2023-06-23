@@ -1,7 +1,7 @@
 ![MaterHead](https://miro.medium.com/v2/resize:fit:1400/1*IRGB-4OAoO8KSqH_huDPFw.gif) 
 <h1 align="center">Hi 👋, I'm Maksym Maltsev</h1>
 <h3 align="center">Beginner Python developer from Ukraine</h3>
-<img align="right" alt="Coding"  height="300" width="300" src ="https://www.thoughtwin.com/assets/img/Python_img.gif">
+<img align="right" alt="Coding"  height="200" width="250" src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDI0d3AyZ2w1ejhqMXFxYzIxem5qM3F0azZmanc1bjBlbGF4ZWp1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 
